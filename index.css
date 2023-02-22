@@ -1,0 +1,12 @@
+.form{
+    margin: right 95px;
+}
+input{
+    padding: 10px;
+    margin: 16px;
+    text-align: center;
+}
+#image{
+    float: left;
+    
+}

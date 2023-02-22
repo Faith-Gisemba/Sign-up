@@ -1,0 +1,14 @@
+.table{
+   
+}
+body{
+    background-image: url(/image/lan.jpg);
+
+}
+table, th,td{
+       
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6%;
+    width: 600px;
+    }

@@ -1,0 +1,17 @@
+
+input{
+    padding: 10px;
+    margin: 16px;
+    text-align: right;
+}
+
+#image{
+    float: left;
+    
+}
+form{
+    margin: 16px;
+    padding: 10px;
+    text-align: center;
+
+}
